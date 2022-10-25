@@ -1,5 +1,8 @@
-## Spring JDBC 예제
+# Spring JDBC 예제
 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=black"><br>
+
+## Code
 ```java
 public class UserService implements UserLevelUpgradePolicy{
 
